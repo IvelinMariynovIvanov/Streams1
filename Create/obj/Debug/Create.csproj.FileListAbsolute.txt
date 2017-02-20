@@ -1,0 +1,6 @@
+C:\Users\ivelin\Documents\Visual Studio 2015\Projects\Streams\Create\bin\Debug\Create.exe.config
+C:\Users\ivelin\Documents\Visual Studio 2015\Projects\Streams\Create\bin\Debug\Create.exe
+C:\Users\ivelin\Documents\Visual Studio 2015\Projects\Streams\Create\bin\Debug\Create.pdb
+C:\Users\ivelin\Documents\Visual Studio 2015\Projects\Streams\Create\obj\Debug\Create.csprojResolveAssemblyReference.cache
+C:\Users\ivelin\Documents\Visual Studio 2015\Projects\Streams\Create\obj\Debug\Create.exe
+C:\Users\ivelin\Documents\Visual Studio 2015\Projects\Streams\Create\obj\Debug\Create.pdb

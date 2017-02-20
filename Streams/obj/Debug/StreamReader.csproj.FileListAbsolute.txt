@@ -1,0 +1,5 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\Streams\Streams\bin\Debug\Streams.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\Streams\Streams\bin\Debug\Streams.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\Streams\Streams\bin\Debug\Streams.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\Streams\Streams\obj\Debug\Streams.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\Streams\Streams\obj\Debug\Streams.pdb

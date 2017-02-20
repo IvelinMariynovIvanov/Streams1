@@ -1,0 +1,6 @@
+C:\Users\ivelin\Documents\Visual Studio 2015\Projects\Streams\ShowAllFolders\bin\Debug\ShowAllFolders.exe.config
+C:\Users\ivelin\Documents\Visual Studio 2015\Projects\Streams\ShowAllFolders\bin\Debug\ShowAllFolders.exe
+C:\Users\ivelin\Documents\Visual Studio 2015\Projects\Streams\ShowAllFolders\bin\Debug\ShowAllFolders.pdb
+C:\Users\ivelin\Documents\Visual Studio 2015\Projects\Streams\ShowAllFolders\obj\Debug\ShowAllFolders.csprojResolveAssemblyReference.cache
+C:\Users\ivelin\Documents\Visual Studio 2015\Projects\Streams\ShowAllFolders\obj\Debug\ShowAllFolders.exe
+C:\Users\ivelin\Documents\Visual Studio 2015\Projects\Streams\ShowAllFolders\obj\Debug\ShowAllFolders.pdb
